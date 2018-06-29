@@ -1,0 +1,9 @@
+package com_Pro;
+
+public class new_Class {
+	public static void main(String[] args) {
+		System.out.println("Hello world");
+		
+	}
+
+}
