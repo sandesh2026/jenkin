@@ -1,1 +1,1 @@
-thanks for new feature
+thanks for new feature and it will close your issue
