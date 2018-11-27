@@ -6,6 +6,6 @@ public class new_Class
 	{
 	    
 	    System.out.println("HelloWorld");
-	    system.out.println("hi everyone");
+	    system.out.println("changed from visual studio");
         }
 }
